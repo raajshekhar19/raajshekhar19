@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raajshekhar19
-- 👀 I’m interested in DSA WEB DEVLOPMENT and AI/ML
+- 👀 I’m interested in DSA / WEB DEVLOPMENT and AI/ML
 - 🌱 I’m currently learning DSA
 
 
