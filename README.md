@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raajshekhar19
-- 👀 I’m interested in DSA / WEB DEVLOPMENT and AI/ML
-- 🌱 I’m currently learning DSA
+- 👀 I’m interested in DSA and AI/ML
+- 🌱 I’m currently learning about agents.
 
 
 # 💻 Tech Stack:
